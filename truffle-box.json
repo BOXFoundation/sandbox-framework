@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "README.md",
+    "test/.gitkeep"
+  ],
+  "commands": {
+    "Compile": "sandbox compile",
+    "Migrate": "sandbox migrate",
+    "Test contracts": "sandbox test"
+  }
+}
